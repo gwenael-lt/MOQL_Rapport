@@ -1,0 +1,6 @@
+Ce document est là pour vous informer que les divers tests préparés pour ce projet ne pourront
+être effectués dû aux soucis techniques rencontrés directement avec les microprocesseurs
+( problème de communication SPI et UART ) ou à cause de la distance entre les membres du groupe
+(impossibilité de faire communiquer les cartes entre elles).
+
+Ce faisant nous avons malgré tout préparé les documents de spécifications nécessaires à ce projet.
